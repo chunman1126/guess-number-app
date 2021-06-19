@@ -21,4 +21,6 @@ btn.addEventListener('click', function(){
     if(userVal < randomNumber){
         alert('larger');
     }
+
+    // do Sth
 })
